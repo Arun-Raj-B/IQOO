@@ -33,19 +33,25 @@
     border: none !important;
 }
 
-.col-3
+/* .col-3
 {
     padding-top: 3px !important;
     padding-left: 0px !important;
     padding-right: 0px !important;
     border: none !important;
-}
+} */
+.col
+{
+    /* padding-top: 3px !important; */
+    padding: 0px !important;
+    border: none !important;
+} 
 
-.row
+/* .row
 {
     padding-left: 4px;
-}
-
+} */
+/* ------------------------------ */
 
 
 
