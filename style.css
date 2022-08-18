@@ -1,0 +1,15 @@
+.navbar .navbar-nav .nav-link:hover{
+    color: rgb(250, 120, 77) !important;
+}
+
+.nav-link
+{
+    color: white !important;
+}
+
+.dropdown .btn
+{
+ background: none !important;
+ border: none !important
+}
+
