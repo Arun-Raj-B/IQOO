@@ -10,7 +10,7 @@
 .dropdown .btn
 {
  background: none !important;
- border: none !important
+ border: none !important;
 }
 
 .shrink
@@ -18,13 +18,15 @@
     height: 675px;
 }
 
-.response-shift
-{
-    width: 100%;
-}
-
 .image
 {
     height: 675px;
 }
 
+.navbar-brand:hover
+{
+    /* background-color: grey;  */
+    border-radius: 7px;
+    border
+    border-color: white !important;
+}
