@@ -35,24 +35,14 @@
 
 .col
 {
-    padding: 0px !important;
+    padding: 1px !important;
     border: none !important;
 } 
 
 .top
 {
-    padding-top: 5px;
+    padding-top: 1.5px;
 } 
-
-.foot-top
-{
-    padding-top: 40px;
-}
-
-.width-hr
-{
-    width: 100vw;
-}
 
 @media screen and (max-width: 768px)
         {
