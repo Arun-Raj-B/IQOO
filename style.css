@@ -61,6 +61,23 @@
     width: 100vw;
 }
 
+@media screen and (max-width: 768px)
+        {
+            .responsive
+            {
+              text-align: center;
+            }
+        }
+
+@media screen and (max-width: 1420px)
+        {
+            .responsive
+            {
+              text-align: center;
+            }
+        }
+
+
 /* .foot-margin
 {
     margin-left: 100px !important;
