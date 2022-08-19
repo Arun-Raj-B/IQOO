@@ -33,13 +33,6 @@
     border: none !important;
 }
 
-/* .col-3
-{
-    padding-top: 3px !important;
-    padding-left: 0px !important;
-    padding-right: 0px !important;
-    border: none !important;
-} */
 .col
 {
     padding: 0px !important;
@@ -66,33 +59,17 @@
             .responsive
             {
               text-align: center;
+              font-size: small;
             }
-        }
 
-@media screen and (max-width: 1420px)
-        {
-            .responsive
+            .copy-responsive
             {
-              text-align: center;
+              font-size: small;
             }
         }
 
 
-/* .foot-margin
-{
-    margin-left: 100px !important;
-    margin-right: 100px !important;
-}  */
-/* ------------------------------ */
 
-/* .p
-{
-    display: inline !important;
-}
 
-.h6
-{
-    display: inline !important;
-} */
 
 
